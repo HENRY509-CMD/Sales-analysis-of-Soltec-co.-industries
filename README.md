@@ -2,10 +2,9 @@
 
 ## Table of contents
 
-[Project Overview](#project-overview)
-[Data Sources](#data-sources)
-[Results/Findings](#results/findings)
-[Recommendations](#recommendations)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
 
 ### Project overview.
 
