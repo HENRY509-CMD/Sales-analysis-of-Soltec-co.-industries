@@ -61,3 +61,6 @@ Based on the given analysis, i recommend the following:
 I had to change the date of all the purchases from 2017 to 2023 to ensure the overall data was compliant to the analysis.
 
 ### References
+
+Overview of pivot tables by microsoft
+[overview of pivot charts and pivot tables](https://support.microsoft.com/en-us/office/overview-of-pivottables-and-pivotcharts-527c8fa3-02c0-445a-a2db-7794676bce96)
