@@ -1,4 +1,4 @@
-# Soltec-academy-data-analytics-sample-project-documentation.
+# Sales-data-analytics.
 
 ## Table of contents
 
