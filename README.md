@@ -10,6 +10,9 @@
 
 This project will serve as a peeking eye into the sales data of a certain company over a period of six months, reviewing their sales history and identifying their sales patterns.
 
+<img width="607" alt="Screenshot 2024-10-17 150256" src="https://github.com/user-attachments/assets/f6d9372c-6875-4c8c-b7f8-b3919e4d2c69">
+
+
 ### Data Sources.
 Sales Data: The primary data sources used for this sample is the "Sales_data.Xls"file, containing the detailed information of each sale made by the company.
 
