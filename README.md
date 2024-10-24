@@ -1,20 +1,27 @@
-# Sales-data-analytics.
+# Sales analysis of Soltec & co industries.
 
 ## Table of contents
 
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+- [Project Overview.](#project-overview)
+- [Data Sources.](#data-sources)
+- [Tools.](#tools)
+- [Data Cleaning.](#data-cleaning)
+- [Exploratory Data Analysis.](#exploratory-data-analysis)
+- [Findings.](#findings)
+- [Recommendations.](#recommendations)
+- [Limitations.](#limitations)
+- [References.](#references)
 
 ### Project overview.
 
-This project will serve as a peeking eye into the sales data of a certain company over a period of six months, reviewing their sales history and identifying their sales patterns.
+This project will serve as a summerized insight into the sales data of Soltec & co. industries over a period of six months, reviewing their sales history and identifying key patterns.
 
-<img width="607" alt="Screenshot 2024-10-17 150256" src="https://github.com/user-attachments/assets/f6d9372c-6875-4c8c-b7f8-b3919e4d2c69">
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/c1f2dceb-70a8-4ac9-a6c0-ed9404c42c75">
+
 
 
 ### Data Sources.
-Sales Data: The primary data sources used for this sample is the "Sales_data.Xls"file, containing the detailed information of each sale made by the company.
+Sales Data: The primary data sources used for this sample is the "Sales_data.xlsx" file, containing the detailed information of each sale made by the company.
 
 ### Tools.
 
@@ -32,36 +39,30 @@ In the initial preparation phase the following was done:
 EDA involved exploring this sales data to answer the following questions:
 
 - What is the overall sales trend?
-- Who are the top performant managers?
+- Which towns generate the most revenue?
 - Which products are more profitable to sale?
 - Which periods are more suitable for sales?
 
-### Data analysis.
 
-```Excel
-Use of pivot tables and pivot charts
-```
-
-### Results/Findings.
+### Findings.
 
 Our findings are as follows:
 1. The sales pattern is relatively stable with a slight peak in the month of APRIL.
 2. Memory cards are the most sold products under both stores.
-3. The town of Sheffield generates the most revenue, followed by Flitwick, Richmond, Coverty and Rye.
-4. Hugo is the most Profitable manager.
-5. Computech generated more overall revenue compared to Microworld.
+3. The town of BEDFORD generates the most revenue, followed by Sheffield, Doncaster, and Flitwick.
+4. Computech generated more overall revenue compared to Microworld.
 
 ### Recommendations
 
 Based on the given analysis, i recommend the following:
 - Invest in marketing and more advertisements during peak sales seasons to maximise revenue.
 - Increase supply to the COMPUTECH store since it has higher over all sales.
-- Placing manager HUGO in charge of more towns.
-- Reduce any non-essential costs in the month june, given it doesn't yeild as much profit as the other months.
+- Reduce any non-essential costs in the month june, given it doesn't yield as much profit as the other months.
 
 ### limitations
 
 I had to change the date of all the purchases from 2017 to 2023 to ensure the overall data was compliant to the analysis.
+I could only use Excel for both data cleaning and visualization since i was only proficient in it back then.
 
 ### References
 
